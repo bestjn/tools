@@ -11,7 +11,7 @@ from loguru import logger
 
 AFTER_DAYS = 1  # 预订n天后的会议室
 START_TIME = 9  # 预订开始时间
-END_TIME = 19  # 预订结束时间
+END_TIME = 18  # 预订结束时间
 TITLE = '电子台账' # 会议主题
 ROOM_BOOK = ['603'] #要预定的会议室列表
 
