@@ -1,0 +1,7 @@
+2019-06-04 00:00:01.411 | INFO     | __main__:get_start_end_timestamp:155 - 会议开始时间：2019-06-05 09:00:00 结束时间：2019-06-05 20:00:00
+2019-06-04 00:00:01.411 | INFO     | __main__:<module>:204 - 会议主题：电子台账
+2019-06-04 00:00:01.411 | INFO     | __main__:<module>:205 - 将要预定的会议室：['603']
+2019-06-04 00:00:06.043 | INFO     | __main__:cloudplus_login:62 - 获取access_token成功：AT-3-61308642-Nz2gL0yGkEnGg7FSc44E6WiqMlrsZbcZDBN
+2019-06-04 00:00:06.755 | INFO     | __main__:<module>:214 - 开始预订603
+2019-06-04 00:00:07.087 | INFO     | __main__:meetingroom_book:102 - 预定失败！msg：会议时间与已有会议冲突，请确认！
+
