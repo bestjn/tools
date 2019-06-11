@@ -18,7 +18,7 @@ ROOM_BOOK = ['603'] #要预定的会议室列表
 LOGIN_INFO = 'client_id=51c6a0a8-7a40-47e8-b8bd-cc305ece9c52' \
                 '&client_secret=a4738cc3-f929-46d2-b4e5-277b6cac8e01' \
                 '&grant_type=password' \
-                '&password=a6085032.' \
+                '&password=' \
                 '&scope=' \
                 '&username=luzhuang@inspur.com' # 验证信息
 RELOGIN_INTERVAL = 10 # 获取access_token失败时重新获取间隔时长(s)
